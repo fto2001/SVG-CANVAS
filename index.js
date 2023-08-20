@@ -104,5 +104,5 @@ lineForBird(105, 180, 90, 190, 'yellow', 2);
 lineForBird(105, 180, 105, 200, 'yellow', 2);
 lineForBird(105, 180, 120, 190, 'yellow', 2);
 lineForBird(200, 180, 185, 190, 'yellow', 2);
-lineForBird(200, 80, 200, 200, 'yellow', 2);
+lineForBird(200, 180, 200, 200, 'yellow', 2);
 lineForBird(200, 180, 215, 190, 'yellow', 2);
